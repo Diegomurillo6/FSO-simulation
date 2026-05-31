@@ -1,3 +1,5 @@
+# Free Space Optical Communication Simulation for a LEO satellite constellation
+
 This project implements a dynamic Free Space Optical (FSO) satellite constellation simulation in MATLAB using the Satellite Communications Toolbox. A multi-plane low Earth orbit constellation is generated with configurable orbital parameters including altitude, inclination, number of orbital planes, and satellites per plane. 
 
 Two geographically separated ground stations are integrated into the scenario to represent communication endpoints. Each satellite is equipped with transmitters, receivers, gimbals, and Gaussian antenna models to emulate optical communication terminals. The simulation precomputes visibility access between all nodes in the network, including satellite-to-satellite and satellite-to-ground links. A graph-based routing strategy is then applied at every simulation timestep using a Breadth-First Search (BFS) algorithm to dynamically determine end-to-end communication paths between the ground stations. 
