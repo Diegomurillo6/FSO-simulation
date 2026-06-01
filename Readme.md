@@ -10,6 +10,6 @@ Network connectivity is evaluated over a 24-hour period, allowing automatic rero
 
 <img width="1531" height="867" alt="SimResult" src="https://github.com/user-attachments/assets/e0e79b00-3082-49b1-9656-76d894630f63" />
 
-This project was done as a part of a research for my Theory of Communications and Signal Processing class, where me and my group did research in Deep Space Optical Communication (DSOC) and innovative ways of communication. You can access a video of the beginning of the simulation in the provided link below. As it took around 5 minutes to complete the calculations needed to simulate, it was sped 10x.
+This project was done as a part of a research project for my Theory of Communications and Signal Processing class, where me and my group did research in Deep Space Optical Communication (DSOC) and innovative ways of communication. You can access a video of the beginning of the simulation in the provided link below. As it took around 5 minutes to complete the calculations needed to simulate, it was sped 10x.
 
 https://youtu.be/tNuTMeUVMtw
